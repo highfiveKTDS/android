@@ -6,5 +6,6 @@ package com.ktds.android.mayPack;
 public class File {
     public static void main(String[] args) {
 
+        System.out.println("hello!");
     }
 }

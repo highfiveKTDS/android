@@ -17,7 +17,8 @@ public class MainActivity extends ActionBarActivity {
         //Hello
     }
 
-    public void fuckMe() {
+    public void helloWorldMethod() {
         return;
     }
+
 }
