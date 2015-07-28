@@ -14,7 +14,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void helloWorlds() {
+    public void helloWorldMethod() {
         return;
     }
 
